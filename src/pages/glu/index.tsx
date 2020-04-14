@@ -2,19 +2,19 @@ import React, { Component } from 'react'
 import { View, Text } from '@tarojs/components'
 import './index.less'
 
-export default class Index extends Component {
+export default class BloodGlucos extends Component {
 
-  componentWillMount () { }
+  componentWillMount() { }
 
-  componentDidMount () { }
+  componentDidMount() { }
 
-  componentWillUnmount () { }
+  componentWillUnmount() { }
 
-  componentDidShow () { }
+  componentDidShow() { }
 
-  componentDidHide () { }
+  componentDidHide() { }
 
-  render () {
+  render() {
     return (
       <View className='index'>
         <Text>Hello world!</Text>

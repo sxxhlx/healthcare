@@ -2,7 +2,7 @@
   "miniprogramRoot": "./dist",
   "projectname": "healthcare",
   "description": "个人健康指标管理",
-  "appid": "touristappid",
+  "appid": "wxa046f32326dff198",
   "setting": {
     "urlCheck": true,
     "es6": false,
